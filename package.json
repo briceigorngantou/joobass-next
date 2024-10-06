@@ -1,0 +1,25 @@
+{
+  "name": "jobb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "formik": "^2.4.6",
+    "jobb": "file:",
+    "moment": "^2.30.1",
+    "next": "14.2.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-router-dom": "^6.26.1",
+    "yup": "^1.4.0"
+  }
+}
